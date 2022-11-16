@@ -1,0 +1,585 @@
+<div dm:templateorder="170" class="dmHomeRespTmpl mainBorder dmRespRowsWrapper dmFullRowRespTmpl" id="1716942098">
+ <div class="u_Home dmRespRow fullBleedChanged dmSectionNoParallax fullBleedMode hasBackgroundOverlay" style="text-align: center;" id="Home" data-anchor="Home" mode="1" data-video-bg="eyJzcmMiOiJodHRwczovL3ZpZC5jZG4td2Vic2l0ZS5jb20vN2IxMTMyMDYvdmlkZW9zL2pCdDJUZUhMVG5lQ3VKbHBBZnRtX2RlbW8rdmlkZW8rVURHLXYubXA0IiwiaWQiOiJodHRwczovL3ZpZC5jZG4td2Vic2l0ZS5jb20vN2IxMTMyMDYvdmlkZW9zL2pCdDJUZUhMVG5lQ3VKbHBBZnRtX2RlbW8rdmlkZW8rVURHLXYubXA0IiwicHJvdmlkZXIiOiJjZG4iLCJlbWJlZCI6Imh0dHBzOi8vdmlkLmNkbi13ZWJzaXRlLmNvbS83YjExMzIwNi92aWRlb3MvakJ0MlRlSExUbmVDdUpscEFmdG1fZGVtbyt2aWRlbytVREctdi5tcDQiLCJyYXRpbyI6MC41NjI1LCJ0aHVtYm5haWwiOiJodHRwczovL2lycC5jZG4td2Vic2l0ZS5jb20vN2IxMTMyMDYvZG1zM3JlcC9tdWx0aS9qQnQyVGVITFRuZUN1SmxwQWZ0bV9kZW1vK3ZpZGVvK1VERy52Mi4wMDAwMDAwLmpwZyIsInN1cHBvcnRCZ09uTW9iaWxlIjp0cnVlLCJzdXBwb3J0QmdMb29wIjp0cnVlLCJwb3N0ZXIiOiJodHRwczovL2lycC5jZG4td2Vic2l0ZS5jb20vN2IxMTMyMDYvZG1zM3JlcC9tdWx0aS9qQnQyVGVITFRuZUN1SmxwQWZ0bV9kZW1vK3ZpZGVvK1VERy52Mi4wMDAwMDAwLmpwZyJ9" data-video-bg-mobile="true">
+  <div class="dmRespColsWrapper u_1568127116" id="1568127116">
+   <div class="u_1815279076 dmRespCol small-12 large-4 medium-4" id="1815279076">
+    <!-- *** INSERT YOUR HTML BELOW *** -->
+    <div class="u_1568779481 imageWidget align-center hide-for-small" editablewidget="true" dmle_widget="image" data-widget-type="image" id="1568779481" data-anim-desktop="bounceIn" data-element-type="image">
+     <img src="https://irp.cdn-website.com/7b113206/dms3rep/multi/foto-pa-gina.png" id="1696260430" class="" data-dm-image-path="https://irp.cdn-website.com/7b113206/dms3rep/multi/foto-pa-gina.png"/>
+    </div>
+   </div>
+   <div class="u_1414742659 dmRespCol small-12 large-8 medium-8" id="1414742659">
+    <!-- *** INSERT YOUR HTML BELOW *** -->
+    <div class="u_1978734296 dmNewParagraph" dmle_widget="paragraph" id="1978734296" data-uialign="left" style="transition: opacity 1s ease-in-out;" no_space_e="true" data-element-type="paragraph" data-version="5">
+     <h1 class="m-size-58 text-align-left size-72" localization_key="googleTranslate.EMWZfGW.11">
+      <span class="m-font-size-58 font-size-72" style="color: rgb(255, 255, 255); display: initial;" no_space_b="true" no_space_e="true">
+       DGES
+      </span>
+     </h1>
+     <h1 class="m-size-36 text-align-left size-45" localization_key="googleTranslate.IlpTArq.12">
+      <span class="m-font-size-36 font-size-45" style="color: rgb(255, 255, 255); font-weight: normal; display: initial;" no_space_b="true" no_space_e="true">
+       Doctorado en Gesti&oacute;n de la Educaci&oacute;n Superior
+      </span>
+     </h1>
+    </div>
+    <div class="u_1830197357 dmNewParagraph" data-dmtmpl="true" id="1830197357" data-uialign="center" style="transition: opacity 1s ease-in-out;" no_space_e="true" data-version="5">
+     <p no_space_b="true" no_space_e="true" localization_key="googleTranslate.4kShrzL.13">
+      <span style="display: initial; color: rgb(255, 255, 255);" no_space_b="true" no_space_e="true">
+       &iexcl;Conoce nuestro plan de estudios!
+      </span>
+     </p>
+    </div>
+    <a data-display-type="block" class="u_1184409743 align-center dmButtonLink dmWidget dmWwr default dmOnlyButton dmDefaultGradient" file="false" href="/plan-de-estudios" dmle_widget="dudaButtonLinkId" id="1184409743" icon-name="icon-hand-right" data-buttonstyle="FLAT_ROUND_ICON" data-element-type="dButtonLinkId" dm_dont_rewrite_url="false">
+     <span class="iconBg" id="1085756430">
+      <span class="icon hasFontIcon icon-star" id="1571621902">
+      </span>
+     </span>
+     <span class="text" id="1061812429" localization_key="googleTranslate.2vRMFzI.14">
+      Plan de estudios
+     </span>
+    </a>
+   </div>
+  </div>
+ </div>
+ <div class="u_AcercadelDGES dmRespRow" style="text-align: center;" id="AcercadelDGES" mode="1" data-anim-desktop="fadeInUp" data-anchor="Acerca del DGES">
+  <div class="dmRespColsWrapper" id="1058775737">
+   <div class="u_1842478738 dmRespCol small-12 medium-6 large-6" id="1842478738">
+    <!-- *** INSERT YOUR HTML BELOW *** -->
+    <div class="u_1409985860 graphicWidget" editablewidget="true" dmle_widget="graphic" data-widget-type="graphic" id="1409985860" data-layout="graphic-style-2" data-element-type="graphic">
+     <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 100 100" id="1982049380" class="svg u_1982049380" data-icon-name="li_award">
+      <g>
+       <path d="M50,23.5c-11,0-19.9,8.9-19.9,19.9S39,63.3,50,63.3s19.9-8.9,19.9-19.9S61,23.5,50,23.5z M50,60.9
+		c-9.6,0-17.5-7.8-17.5-17.5C32.5,33.8,40.4,26,50,26s17.5,7.8,17.5,17.5C67.5,53.1,59.6,60.9,50,60.9z">
+       </path>
+       <path d="M88.3,73.7L75.6,61l2.2-1.3V51l4.4-7.6l-4.4-7.6v-8.7l-7.6-4.4l-4.4-7.6h-8.7l-7.6-4.4L42,15.2h-8.7l-4.4,7.6l-7.6,4.4v8.7
+		L17,43.4l4.4,7.6v8.7l2.7,1.6L11.7,73.7c-0.4,0.4-0.5,0.9-0.3,1.4s0.6,0.8,1.2,0.8h11.2v11.2c0,0.5,0.3,1,0.8,1.2
+		c0.2,0.1,0.3,0.1,0.5,0.1c0.3,0,0.6-0.1,0.9-0.4l16.2-16.2l7.5,4.3l7.6-4.4h0.6L74.2,88c0.2,0.2,0.6,0.4,0.9,0.4
+		c0.2,0,0.3,0,0.5-0.1c0.5-0.2,0.8-0.6,0.8-1.2V75.8h11.2c0.5,0,1-0.3,1.2-0.8C88.7,74.6,88.6,74.1,88.3,73.7z M25.1,73.4h-9.5
+		l10.7-10.7l2.6,1.5l4.4,7.6h5.4L26.3,84.1v-9.5C26.3,73.9,25.8,73.4,25.1,73.4z M56.5,69.2l-6.9,4l-6.9-4h-8l-4-6.9l-6.9-4v-8
+		l-4-6.9l4-6.9v-8l6.9-4l4-6.9h8l6.9-4l6.9,4h8l4,6.9l6.9,4v8l4,6.9l-4,6.9v8l-6.9,4l-4,6.9H56.5z M74.9,73.4
+		c-0.7,0-1.2,0.6-1.2,1.2v9.5L61.3,71.7h4.6l4.4-7.6l3.1-1.8l11,11L74.9,73.4L74.9,73.4z">
+       </path>
+      </g>
+     </svg>
+    </div>
+    <div class="u_1272752012 dmNewParagraph" dmle_widget="paragraph" id="1272752012" no_space_e="true" data-uialign="left" data-element-type="paragraph" data-version="5" style="text-align: center;">
+     <h4 class="text-align-center" localization_key="googleTranslate.HfjiMd0.15">
+      <span style="display: initial; font-weight: bold;" no_space_b="true" no_space_e="true">
+       Calidad en educaci&oacute;n
+      </span>
+     </h4>
+    </div>
+    <div class="u_1906230276 dmNewParagraph" data-dmtmpl="true" id="1906230276" data-editor-state="closed" no_space_e="true" data-uialign="left" data-version="5" style="text-align: center;">
+     <p class="m-size-12 text-align-center size-15" no_space_b="true" no_space_e="true" localization_key="googleTranslate.viou12g.16">
+      <span class="m-font-size-12 font-size-15" style="color: rgb(51, 51, 51); display: initial;" no_space_b="true" no_space_e="true">
+       Tiene la finalidad de satisfacer la demanda actual de investigadores en el campo de la gesti&oacute;n universitaria con una clara comprensi&oacute;n de los problemas y retos que enfrenta el sector y del rol que, los l&iacute;deres educativos, juegan dentro de los procesos de gesti&oacute;n e investigaci&oacute;n orientados a la transformaci&oacute;n democr&aacute;tica, pertinente y eficiente de las Instituciones de Educaci&oacute;n Superior.
+      </span>
+     </p>
+    </div>
+   </div>
+   <div class="u_1624058868 dmRespCol small-12 medium-6 large-6" id="1624058868">
+    <!-- *** INSERT YOUR HTML BELOW *** -->
+    <div class="u_1273177443 graphicWidget" editablewidget="true" dmle_widget="graphic" data-widget-type="graphic" id="1273177443" data-layout="graphic-style-2" data-element-type="graphic">
+     <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 100 100" id="1746685713" class="svg u_1746685713" data-icon-name="li-lock">
+      <g id="1081871642">
+       <path d="M69.6,44.7v-7.5c0-10-8.1-18.1-18.1-18.1c-10,0-18.1,8.1-18.1,18.1v7.5h-4.3v13.8c0,12.3,10,22.3,22.3,22.3
+		s22.3-10,22.3-22.3V44.7H69.6z M35.5,37.2c0-8.9,7.2-16.1,16.1-16.1s16.1,7.2,16.1,16.1v7.5H35.5V37.2z M71.9,58.5
+		c0,11.2-9.1,20.3-20.3,20.3s-20.3-9.1-20.3-20.3V46.7h40.7V58.5z" id="1714672889">
+       </path>
+       <rect x="49.6" y="60" width="4" height="4" id="1565583074">
+       </rect>
+      </g>
+     </svg>
+    </div>
+    <div class="u_1730477924 dmNewParagraph" dmle_widget="paragraph" id="1730477924" no_space_e="true" data-uialign="center" data-element-type="paragraph" data-version="5" style="text-align: center;">
+     <h4 class="text-align-center" localization_key="googleTranslate.c2uHBPt.17">
+      <span style="display: initial; font-weight: bold;" no_space_b="true" no_space_e="true">
+       Enfocado en la investigaci&oacute;n
+      </span>
+     </h4>
+    </div>
+    <div class="u_1606569776 dmNewParagraph" data-dmtmpl="true" id="1606569776" data-editor-state="closed" no_space_e="true" data-uialign="center" style="display: block; text-align: center;" data-version="5">
+     <p no_space_b="true" no_space_e="true" localization_key="googleTranslate.Dtz0QM3.18">
+      <span style="color: rgb(51, 51, 51); display: initial;" no_space_b="true" no_space_e="true">
+       Dirigido a profesores-investigadores, consultores acad&eacute;micos especializados, funcionarios de alto nivel, directivos de mandos superiores y directivos de mandos medios, que desde una perspectiva interdisciplinaria y comparada realicen investigaci&oacute;n, b&aacute;sica o aplicada, en el campo de la gesti&oacute;n de la educaci&oacute;n superior, y que a la vez sean capaces de dise&ntilde;ar, implementar y evaluar pol&iacute;ticas que promuevan procesos de cambio necesarios y pertinentes en las Instituciones de Educaci&oacute;n Superior.
+      </span>
+     </p>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="u_1288189036 dmRespRow" id="1288189036">
+  <div class="dmRespColsWrapper" id="1944289610">
+   <div class="dmRespCol empty-column large-12 medium-12 small-12" id="1594950333">
+    <!-- *** INSERT YOUR HTML BELOW *** -->
+    <div class="u_1918567032 dmDividerWrapper clearfix" dmle_widget="dudaDividerId" id="1918567032" layout="divider-style-1" data-element-type="dDividerId" data-widget-version="2">
+     <hr class="dmDivider" style="min-height: 2px; border:none; background:grey" id="1825457938"/>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="u_1721231062 dmRespRow dmSectionNoParallax" style="text-align: center;" id="1721231062" data-anchor="HOW IT WORKS" data-gallery-bg="eyJzbGlkZXMiOltdfQ==">
+  <div class="dmRespColsWrapper" id="1766960978">
+   <div class="dmRespCol small-12 medium-12 large-12 dmSectionNoParallax u_1402492271" id="1402492271" data-gallery-bg="eyJzbGlkZXMiOltdfQ==">
+    <!-- *** INSERT YOUR HTML BELOW *** -->
+    <div class="u_1782514837 dmDividerWrapper clearfix" dmle_widget="dudaDividerId" id="1782514837" layout="divider-style-1" data-element-type="dDividerId" data-widget-version="2">
+     <hr class="dmDivider" style="min-height: 2px; border:none; background:grey" id="1096119182"/>
+    </div>
+    <div class="u_1042006443 flex-container dmImageSlider dmNoMargin dmNoMark" editablewidget="true" data-widget-type="imageSlider" dmle_volatile_widget="true" dmle_widget="dudaSliderId" data-element-type="dSliderId" id="1042006443">
+     <div class="flexslider ed-version" sliderscriptparams="{ stretch: true, animation: true, randomize: false, directionNav: true, isAutoPlay: true, isFade: true, controlNav: false, slideshowSpeed: 7000, animationDuration: 600, pausePlay: true }" id="1461597240" layout="empty">
+      <ul class="slides" id="1305323626">
+       <li layout="center" position="center" animation="fadeInUp" show-content="true" color-overlay="true" text-background="true" id="1769984637">
+        <img dm="true" src="https://irp.cdn-website.com/7b113206/dms3rep/multi/Portada+Redes+MNEE.jpg" id="1510582990"/>
+        <div class="color-overlay" id="1733566875">
+        </div>
+        <div class="slide-inner" id="1079397464">
+         <div class="text-wrapper" id="1882249665">
+          <h3 class="slide-title" id="1095586276" localization_key="googleTranslate.oAwUjGi.19">
+           T&iacute;tulo de diapositiva
+          </h3>
+          <div class="slide-text richText" id="1715808172">
+           Escriba su subt&iacute;tulo aqu&iacute;
+          </div>
+         </div>
+         <div class="slide-button dmWidget clearfix" id="1993572988">
+          <span class="iconBg" dmle_generated="true" id="1629115003">
+           <span class="icon hasFontIcon icon-star" dmle_dont_remove="true" dmle_generated="true" id="1019373385">
+           </span>
+          </span>
+          <span class="text" id="1172492578" localization_key="googleTranslate.4Vs2Kl9.20">
+           Bot&oacute;n
+          </span>
+         </div>
+        </div>
+       </li>
+       <li layout="center" position="center" animation="fadeInUp" show-content="true" color-overlay="true" text-background="true" id="1479085007">
+        <img dm="true" src="https://irp.cdn-website.com/7b113206/dms3rep/multi/Banner+web_Posgrados.jpg" id="1954607687"/>
+        <div class="color-overlay" id="1748862767">
+        </div>
+        <div class="slide-inner" id="1323039491">
+         <div class="text-wrapper" id="1574324184">
+          <h3 class="slide-title" id="1630684552" localization_key="googleTranslate.oAwUjGi.19">
+           T&iacute;tulo de diapositiva
+          </h3>
+          <div class="slide-text richText" id="1743368826">
+           Escriba su subt&iacute;tulo aqu&iacute;
+          </div>
+         </div>
+         <div class="slide-button dmWidget clearfix" id="1627034775">
+          <span class="iconBg" dmle_generated="true" id="1904999862">
+           <span class="icon hasFontIcon icon-star" dmle_dont_remove="true" dmle_generated="true" id="1755984318">
+           </span>
+          </span>
+          <span class="text" id="1823389575" localization_key="googleTranslate.4Vs2Kl9.20">
+           Bot&oacute;n
+          </span>
+         </div>
+        </div>
+       </li>
+      </ul>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="u_Objetivos dmRespRow" style="text-align: center;" id="Objetivos" data-anchor="Objetivos">
+  <div class="dmRespColsWrapper" id="1605435067">
+   <div class="u_1523137605 dmRespCol small-12 large-5 medium-5 dmSectionNoParallax" id="1523137605" data-gallery-bg="eyJzbGlkZXMiOltdfQ==">
+    <!-- *** INSERT YOUR HTML BELOW *** -->
+    <div class="u_1418330637 dmNewParagraph" dmle_widget="paragraph" id="1418330637" no_space_e="true" data-uialign="left" data-element-type="paragraph" data-version="5" style="text-align: right;">
+     <h2 class="text-align-left">
+      <span style="display: initial;" no_space_b="true" no_space_e="true">
+       Objetivo General
+      </span>
+     </h2>
+    </div>
+    <div class="u_1295955650 dmDividerWrapper clearfix" dmle_widget="dudaDividerId" id="1295955650" layout="divider-style-1" data-element-type="dDividerId" data-widget-version="2">
+     <hr class="dmDivider" style="min-height: 2px; border:none; background:grey" id="1800156120"/>
+    </div>
+    <div class="u_1989740547 dmNewParagraph" data-dmtmpl="true" id="1989740547" data-editor-state="closed" no_space_e="true" data-uialign="left" data-version="5" style="text-align: right;">
+     <p class="m-size-14 size-17 text-align-left" no_space_b="true" no_space_e="true">
+      <span class="m-font-size-14 font-size-17" style="display: initial;" no_space_b="true" no_space_e="true">
+       El prop&oacute;sito central del Doctorado en Gesti&oacute;n de la Educaci&oacute;n (DGES) es satisfacer la demanda de investigadores en el campo de la gesti&oacute;n de la educaci&oacute;n superior y brindar una alternativa a profesores, consultores educativos, funcionarios de alto nivel, y directivos de mandos superiores y medios para formarse como investigadores en el campo de la gesti&oacute;n de la educaci&oacute;n superior y de convertirse en l&iacute;deres acad&eacute;micos capaces de gestionar e implementar pol&iacute;ticas que promuevan procesos de cambio necesarios y pertinentes en las Instituciones de Educaci&oacute;n Superior.
+      </span>
+     </p>
+    </div>
+   </div>
+   <div class="u_1726072919 dmRespCol small-12 large-7 medium-7" id="1726072919">
+    <!-- *** INSERT YOUR HTML BELOW *** -->
+    <div class="u_1736642892 dmNewParagraph" dmle_widget="paragraph" id="1736642892" no_space_e="true" data-uialign="left" data-element-type="paragraph" data-version="5" style="text-align: right; transition: none 0s ease 0s; display: block;">
+     <h2 class="text-align-left">
+      <span style="display: initial;" no_space_b="true" no_space_e="true">
+       Objetivos Especificos
+      </span>
+     </h2>
+    </div>
+    <div class="u_1366483703 dmDividerWrapper clearfix" dmle_widget="dudaDividerId" id="1366483703" layout="divider-style-1" data-element-type="dDividerId" data-widget-version="2">
+     <hr class="dmDivider" style="min-height: 2px; border:none; background:grey" id="1954284693"/>
+    </div>
+    <div class="u_1553060664 dmNewParagraph" data-dmtmpl="true" id="1553060664" data-editor-state="closed" no_space_e="true" data-uialign="left" data-version="5" style="text-align: right; display: block; transition: none 0s ease 0s;">
+     <ul class="defaultList">
+      <li class="text-align-left m-size-14" style="line-height: inherit;" no_space_b="true" no_space_e="true">
+       <span class="m-font-size-14" style="font-style: inherit; font-weight: inherit; display: initial;" no_space_b="true" no_space_e="true">
+        Formar investigadores de alto nivel en el &aacute;rea de la gesti&oacute;n de la educaci&oacute;n superior y en el an&aacute;lisis e implementaci&oacute;n de las pol&iacute;ticas p&uacute;blicas del sector, con el fin de contribuir significativamente al desarrollo y transformaci&oacute;n de la educaci&oacute;n superior.
+       </span>
+      </li>
+      <li class="text-align-left m-size-14" style="line-height: inherit;" no_space_b="true" no_space_e="true">
+       <span class="m-font-size-14" style="font-style: inherit; font-weight: inherit; display: initial;" no_space_b="true" no_space_e="true">
+        Ofrecer una opci&oacute;n de formaci&oacute;n a profesores, consultores especializados, funcionarios y directivos del sector educativo ante la demanda de doctores en gesti&oacute;n de la educaci&oacute;n superior que existe en M&eacute;xico y en otros pa&iacute;ses de Latinoam&eacute;rica.
+       </span>
+      </li>
+      <li class="text-align-left m-size-14" style="line-height: inherit;" no_space_b="true" no_space_e="true">
+       <span class="m-font-size-14" style="font-style: inherit; font-weight: inherit; display: initial;" no_space_b="true" no_space_e="true">
+        Desarrollar un espacio para la reflexi&oacute;n, an&aacute;lisis y discusi&oacute;n de los problemas, desaf&iacute;os y oportunidades de la educaci&oacute;n superior y sus procesos de gesti&oacute;n desde una perspectiva comparada e interdisciplinaria.
+       </span>
+      </li>
+      <li class="text-align-left m-size-14" style="line-height: inherit;" no_space_b="true" no_space_e="true">
+       <span class="m-font-size-14" style="font-style: inherit; font-weight: inherit; display: initial;" no_space_b="true" no_space_e="true">
+        Fortalecer la oferta de posgrados de calidad de la Universidad de Guadalajara y, espec&iacute;ficamente, del Centro Universitario de Ciencias Econ&oacute;mico Administrativas.
+       </span>
+      </li>
+     </ul>
+     <p class="text-align-left" no_space_b="true" no_space_e="true">
+      <span style="display: initial;" no_space_b="true" no_space_e="true">
+       <br/>
+      </span>
+     </p>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="u_HOWITWORKS dmRespRow hasBackgroundOverlay" style="text-align: center;" id="HOWITWORKS" data-video-bg="eyJzcmMiOiJodHRwczovL3ZpZC5jZG4td2Vic2l0ZS5jb20vN2IxMTMyMDYvdmlkZW9zL21RcTh4U2pRNGllRThHUHJmbzd3X3ZpZGVvK2RlbW8rcGFnaWFzLXYubXA0IiwiaWQiOiJodHRwczovL3ZpZC5jZG4td2Vic2l0ZS5jb20vN2IxMTMyMDYvdmlkZW9zL21RcTh4U2pRNGllRThHUHJmbzd3X3ZpZGVvK2RlbW8rcGFnaWFzLXYubXA0IiwicHJvdmlkZXIiOiJjZG4iLCJlbWJlZCI6Imh0dHBzOi8vdmlkLmNkbi13ZWJzaXRlLmNvbS83YjExMzIwNi92aWRlb3MvbVFxOHhTalE0aWVFOEdQcmZvN3dfdmlkZW8rZGVtbytwYWdpYXMtdi5tcDQiLCJyYXRpbyI6MC41NjI1LCJ0aHVtYm5haWwiOiJodHRwczovL2lycC5jZG4td2Vic2l0ZS5jb20vN2IxMTMyMDYvZG1zM3JlcC9tdWx0aS9tUXE4eFNqUTRpZUU4R1ByZm83d192aWRlbytkZW1vK3BhZ2lhcy52Mi4wMDAwMDAwLmpwZyIsInN1cHBvcnRCZ09uTW9iaWxlIjp0cnVlLCJzdXBwb3J0QmdMb29wIjp0cnVlLCJwb3N0ZXIiOiJodHRwczovL2lycC5jZG4td2Vic2l0ZS5jb20vN2IxMTMyMDYvZG1zM3JlcC9tdWx0aS9tUXE4eFNqUTRpZUU4R1ByZm83d192aWRlbytkZW1vK3BhZ2lhcy52Mi4wMDAwMDAwLmpwZyJ9" data-anchor="HOW IT WORKS" data-video-bg-mobile="true">
+  <div class="dmRespColsWrapper" id="1637763980">
+   <div class="dmRespCol small-12 medium-12 large-12" id="1637629881">
+    <!-- *** INSERT YOUR HTML BELOW *** -->
+    <div class="flex-container dmImageSlider dmNoMargin dmNoMark u_1394876270" editablewidget="true" data-widget-type="imageSlider" dmle_volatile_widget="true" dmle_widget="dudaSliderId" data-element-type="dSliderId" id="1394876270">
+     <div class="flexslider ed-version" sliderscriptparams="{'stretch':true,'animation':true,'randomize':false,'directionNav':true,'isAutoPlay':true,'isFade':false,'controlNav':false,'slideshowSpeed':10000,'animationDuration':600,'pausePlay':true}" id="1179036579">
+      <ul class="slides" id="1177523933">
+       <li layout="center" position="center" animation="fadeIn" show-content="true" color-overlay="true" text-background="true" id="1930938137" class="u_1930938137" show-caption="true">
+        <img dm="true" src="https://irp.cdn-website.com/7b113206/dms3rep/multi/empty_02-799x346-6164d807.png" id="1133176104" class=""/>
+        <div class="color-overlay" id="1050629393">
+        </div>
+        <div class="slide-inner" id="1087691008">
+         <div class="text-wrapper" id="1717406634">
+          <h3 class="slide-title u_1149445626" id="1149445626" localization_key="googleTranslate.qfXspTn.25">
+           Perfil de Ingreso
+          </h3>
+          <div class="slide-text richText u_1326071822" id="1326071822" style="">
+           <br/>
+           <p class="rteBlock" no_space_b="true" no_space_e="true">
+            El aspirante al Doctorado en Gesti&oacute;n de la Educaci&oacute;n Superior deber&aacute;:
+           </p>
+           <br/>
+           <ul class="rteBlock defaultList">
+            <li no_space_b="true" no_space_e="true">
+             Tener experiencia en docencia o gesti&oacute;n en la educaci&oacute;n superior. Esto es, ser o haber sido, profesor, investigador, funcionario, directivo o consultor en una Instituci&oacute;n de Educaci&oacute;n Superior u organismo descentralizado de educaci&oacute;n superior.
+            </li>
+            <li no_space_b="true" no_space_e="true">
+             Estar comprometido con el desarrollo y transformaci&oacute;n de las Instituciones de Educaci&oacute;n Superior.
+            </li>
+            <li no_space_b="true" no_space_e="true">
+             Por lo anterior no se puede especificar una maestr&iacute;a o &aacute;reas espec&iacute;ficas de conocimiento previas, ya que la gesti&oacute;n de la educaci&oacute;n superior es un &aacute;rea que puede ser desarrollada por acad&eacute;micos y profesionistas de diferentes campos.
+            </li>
+           </ul>
+          </div>
+         </div>
+         <div class="slide-button dmWidget clearfix slide-button-invisible" id="1182780726">
+          <span class="iconBg" dmle_generated="true" id="1386418485">
+           <span class="icon hasFontIcon icon-star" dmle_dont_remove="true" dmle_generated="true" id="1615951139">
+           </span>
+          </span>
+          <span class="text" id="1428418317" localization_key="googleTranslate.4Vs2Kl9.20">
+           Bot&oacute;n
+          </span>
+         </div>
+        </div>
+       </li>
+       <li layout="center" position="center" animation="fadeIn" show-content="true" color-overlay="true" text-background="true" id="1407015268" class="u_1407015268">
+        <img dm="true" src="https://irp.cdn-website.com/7b113206/dms3rep/multi/empty_02-799x346.png" id="1670509609" class=""/>
+        <div class="color-overlay" id="1912909986">
+        </div>
+        <div class="slide-inner" id="1230377852">
+         <div class="text-wrapper" id="1878685069">
+          <h3 class="slide-title" id="1660719951" localization_key="googleTranslate.Y4btah2.26">
+           Perfil de Egreso
+          </h3>
+          <div class="slide-text richText" id="1787776006" style="">
+           <br/>
+           <p class="rteBlock" no_space_b="true" no_space_e="true">
+            Al terminar el DGES sus egresados:
+           </p>
+           <p class="rteBlock" no_space_b="true" no_space_e="true">
+            &nbsp;
+           </p>
+           <ul class="rteBlock defaultList">
+            <li no_space_b="true" no_space_e="true">
+             Contar&aacute;n con una visi&oacute;n integral de los problemas que enfrentan las IES a nivel local, nacional y global.
+            </li>
+            <li no_space_b="true" no_space_e="true">
+             Ser&aacute;n capaces de realizar investigaciones con rigor cient&iacute;fico y dirigir grupos de investigaci&oacute;n que contribuyan con aportes originales en el campo de la gesti&oacute;n de la educaci&oacute;n superior.
+            </li>
+            <li no_space_b="true" no_space_e="true">
+             Actuar&aacute;n como l&iacute;deres y agentes de cambio institucional con compromiso social y actitud &eacute;tica que gu&iacute;e sus decisiones en beneficio de la educaci&oacute;n superior.
+            </li>
+            <li no_space_b="true" no_space_e="true">
+             Tendr&aacute;n la capacidad de ofrecer resultados de investigaci&oacute;n que orienten los procesos de toma de decisiones con relaci&oacute;n a los problemas y cuestiones inherentes a la gesti&oacute;n de lES.
+            </li>
+           </ul>
+          </div>
+         </div>
+         <div class="slide-button dmWidget clearfix" id="1058701382">
+          <span class="iconBg" dmle_generated="true" id="1959616771">
+           <span class="icon hasFontIcon icon-star" dmle_dont_remove="true" dmle_generated="true" id="1130714153">
+           </span>
+          </span>
+          <span class="text" id="1616900829" localization_key="googleTranslate.4Vs2Kl9.20">
+           Bot&oacute;n
+          </span>
+         </div>
+        </div>
+       </li>
+      </ul>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="u_1027112762 dmRespRow" style="text-align: center;" id="1027112762" mode="4">
+  <div class="dmRespColsWrapper" id="1131031698">
+   <div class="dmRespCol medium-3 large-3 u_1867293671 small-6" id="1867293671">
+    <!-- *** INSERT YOUR HTML BELOW *** -->
+    <div class="u_1915539918 imageWidget align-center" editablewidget="true" dmle_widget="image" data-widget-type="image" id="1915539918" data-element-type="image">
+     <a href="https://www.gob.mx/sep" id="1564628840" class="" target="_blank" dm_dont_rewrite_url="false" file="false">
+      <img src="https://irp.cdn-website.com/7b113206/dms3rep/multi/SEP_logo_2012.svg.png" id="1554599381" class="" data-dm-image-path="https://irp.cdn-website.com/7b113206/dms3rep/multi/SEP_logo_2012.svg.png"/>
+     </a>
+    </div>
+   </div>
+   <div class="dmRespCol medium-3 large-3 u_1310354419 small-6" id="1310354419">
+    <!-- *** INSERT YOUR HTML BELOW *** -->
+    <div class="u_1017212864 imageWidget align-center" editablewidget="true" dmle_widget="image" data-widget-type="image" id="1017212864" data-element-type="image">
+     <a href="https://www.oecd.org/" id="1828004135" class="" target="_blank" dm_dont_rewrite_url="false" file="false">
+      <img src="https://irp.cdn-website.com/7b113206/dms3rep/multi/descarga.jpeg" id="1707428033" class="" data-dm-image-path="https://irp.cdn-website.com/7b113206/dms3rep/multi/descarga.jpeg"/>
+     </a>
+    </div>
+   </div>
+   <div class="dmRespCol medium-3 large-3 u_1704604020 small-6" id="1704604020">
+    <!-- *** INSERT YOUR HTML BELOW *** -->
+    <div class="u_1017871483 imageWidget align-center" editablewidget="true" dmle_widget="image" data-widget-type="image" id="1017871483" data-element-type="image">
+     <a href="http://www.anuies.mx/" id="1633278036" class="" target="_blank" dm_dont_rewrite_url="false" file="false">
+      <img src="https://irp.cdn-website.com/7b113206/dms3rep/multi/ANUIES.png" id="1606067403" class="" data-dm-image-path="https://irp.cdn-website.com/7b113206/dms3rep/multi/ANUIES.png"/>
+     </a>
+    </div>
+   </div>
+   <div class="dmRespCol medium-3 large-3 u_1939087088 small-6" id="1939087088">
+    <!-- *** INSERT YOUR HTML BELOW *** -->
+    <div class="u_1112241994 imageWidget align-center" editablewidget="true" dmle_widget="image" data-widget-type="image" id="1112241994" data-element-type="image">
+     <a href="https://www.clacso.org/" id="1685902518" class="" target="_blank" dm_dont_rewrite_url="false" file="false">
+      <img src="https://irp.cdn-website.com/7b113206/dms3rep/multi/descarga.png" id="1310314971" class="" data-dm-image-path="https://irp.cdn-website.com/7b113206/dms3rep/multi/descarga.png"/>
+     </a>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="u_1267534118 dmRespRow" style="text-align: center;" id="1267534118" mode="4">
+  <div class="dmRespColsWrapper" id="1817532276">
+   <div class="dmRespCol medium-3 large-3 u_1968756972 small-6" id="1968756972">
+    <!-- *** INSERT YOUR HTML BELOW *** -->
+    <div class="u_1612507506 imageWidget align-center" editablewidget="true" dmle_widget="image" data-widget-type="image" id="1612507506" data-element-type="image">
+     <a href="https://conacyt.mx/becas_posgrados/" id="1450829109" class="" target="_blank" dm_dont_rewrite_url="false" file="false">
+      <img src="https://irp.cdn-website.com/7b113206/dms3rep/multi/Logotipo_de_la_CONACYT.png" id="1717347490" class="" data-dm-image-path="https://irp.cdn-website.com/7b113206/dms3rep/multi/Logotipo_de_la_CONACYT.png"/>
+     </a>
+    </div>
+   </div>
+   <div class="dmRespCol medium-3 large-3 u_1909755944 small-6" id="1909755944">
+    <!-- *** INSERT YOUR HTML BELOW *** -->
+    <div class="u_1919969750 imageWidget align-center" editablewidget="true" dmle_widget="image" data-widget-type="image" id="1919969750" data-element-type="image">
+     <a href="https://www.inegi.org.mx/" id="1998509379" class="" target="_blank" dm_dont_rewrite_url="false" file="false">
+      <img src="https://irp.cdn-website.com/7b113206/dms3rep/multi/INEGI.jpeg" id="1407897953" class="" data-dm-image-path="https://irp.cdn-website.com/7b113206/dms3rep/multi/INEGI.jpeg"/>
+     </a>
+    </div>
+   </div>
+   <div class="dmRespCol medium-3 large-3 u_1853791594 small-6" id="1853791594">
+    <!-- *** INSERT YOUR HTML BELOW *** -->
+    <div class="u_1538471739 imageWidget align-center" editablewidget="true" dmle_widget="image" data-widget-type="image" id="1538471739" data-element-type="image">
+     <a href="https://es.unesco.org/" id="1120262605" class="" target="_blank" dm_dont_rewrite_url="false" file="false">
+      <img src="https://irp.cdn-website.com/7b113206/dms3rep/multi/Logo-UNESCO.jpeg" id="1478017274" class="" data-dm-image-path="https://irp.cdn-website.com/7b113206/dms3rep/multi/Logo-UNESCO.jpeg"/>
+     </a>
+    </div>
+   </div>
+   <div class="dmRespCol medium-3 large-3 u_1574467925 small-6" id="1574467925">
+    <!-- *** INSERT YOUR HTML BELOW *** -->
+    <div class="u_1832227480 imageWidget align-center" editablewidget="true" dmle_widget="image" data-widget-type="image" id="1832227480" data-element-type="image">
+     <a href="https://oei.int/oficinas/secretaria-general" id="1556241072" class="" target="_blank" dm_dont_rewrite_url="false" file="false">
+      <img src="https://irp.cdn-website.com/7b113206/dms3rep/multi/descarga+%281%29.png" id="1741208124" class="" data-dm-image-path="https://irp.cdn-website.com/7b113206/dms3rep/multi/descarga+%281%29.png"/>
+     </a>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="u_1957247165 dmRespRow" style="text-align: center;" id="1957247165" mode="4">
+  <div class="dmRespColsWrapper" id="1734531118">
+   <div class="dmRespCol medium-3 large-3 u_1144316761 small-6" id="1144316761">
+    <!-- *** INSERT YOUR HTML BELOW *** -->
+   </div>
+   <div class="dmRespCol medium-3 large-3 u_1750478494 small-6" id="1750478494">
+    <!-- *** INSERT YOUR HTML BELOW *** -->
+    <div class="u_1468281703 imageWidget align-center" editablewidget="true" dmle_widget="image" data-widget-type="image" id="1468281703" data-element-type="image">
+     <a href="http://www.guninetwork.org/" id="1175488813" class="" target="_blank" dm_dont_rewrite_url="false" file="false">
+      <img src="https://irp.cdn-website.com/7b113206/dms3rep/multi/descarga+%282%29.png" id="1954573847" class="" data-dm-image-path="https://irp.cdn-website.com/7b113206/dms3rep/multi/descarga+%282%29.png"/>
+     </a>
+    </div>
+   </div>
+   <div class="dmRespCol medium-3 large-3 u_1694750553 small-6" id="1694750553">
+    <!-- *** INSERT YOUR HTML BELOW *** -->
+    <div class="u_1031028798 imageWidget align-center" editablewidget="true" dmle_widget="image" data-widget-type="image" id="1031028798" data-element-type="image">
+     <a id="1540646885" class="" target="_blank" dm_dont_rewrite_url="false" file="false" href="http://www.comie.org.mx/v5/sitio/">
+      <img src="https://irp.cdn-website.com/7b113206/dms3rep/multi/5aa696b858b66501c9162a31-102f7a.png" id="1401305532" class="" data-dm-image-path="https://irp.cdn-website.com/7b113206/dms3rep/multi/5aa696b858b66501c9162a31-102f7a.png"/>
+     </a>
+    </div>
+   </div>
+   <div class="dmRespCol medium-3 large-3 u_1433041650 small-6" id="1433041650">
+    <!-- *** INSERT YOUR HTML BELOW *** -->
+   </div>
+  </div>
+ </div>
+ <div class="u_ContactUs dmRespRow" style="text-align: center;" id="ContactUs" data-anchor="Contact Us">
+  <div class="dmRespColsWrapper u_1427480177" id="1427480177">
+   <div class="u_1458425414 dmRespCol small-12 large-8 medium-8" id="1458425414">
+    <!-- *** INSERT YOUR HTML BELOW *** -->
+    <div class="u_1965026193 dmform default" preserve_css="true" dmle_widget="dudaContactUsRespId" id="1965026193" data-layout="layout-1" data-element-type="dContactUsRespId">
+     <h3 class="dmform-title dmwidget-title" id="1951906199" hide="true" localization_key="googleTranslate.HqNVZZM.27">
+      Cont&aacute;ctenos
+     </h3>
+     <div class="dmform-wrapper" preserve_css="true" id="1129314475">
+      <form method="post" class="dmRespDesignRow" locale="ENGLISH" id="1334483547">
+       <div class="dmforminput required  small-12 dmRespDesignCol medium-12 large-12" id="1045501919" localization_key_label="googleTranslate.vBz9sbH.28">
+        <label for="dmform-0" id="1750100064">
+         Nombre
+        </label>
+        <input type="text" class="" name="dmform-0" id="1994609000"/>
+        <input type="hidden" name="label-dmform-0" value="Nombre" id="1535673501" class=""/>
+       </div>
+       <div class="dmforminput required  small-12 dmRespDesignCol medium-12 large-12" id="1703728888" localization_key_label="googleTranslate.TBY3UqS.29">
+        <label for="dmform-1" id="1935532549">
+         E-mail
+        </label>
+        <input type="email" class="" name="dmform-1" id="1896084270"/>
+        <input type="hidden" name="label-dmform-1" value="E-mail" id="1509387537" class=""/>
+       </div>
+       <div class="dmforminput dmRespDesignCol small-12 medium-12 large-12 required" id="1724614375" localization_key_label="googleTranslate.7rZi3bp.30">
+        <label for="dmform-3" id="1885973641">
+         Tel&eacute;fono
+        </label>
+        <input type="tel" name="dmform-3" placeholder="" id="1976200789"/>
+        <input type="hidden" name="label-dmform-3" value="Teléfono" id="1843176319" class=""/>
+       </div>
+       <div class="dmforminput small-12 dmRespDesignCol medium-12 large-12" id="1243353383" localization_key_label="googleTranslate.umBog2I.31">
+        <label for="dmform-4" id="1220778746">
+         Mensaje
+        </label>
+        <input type="text" name="dmform-4" placeholder="" id="1621662898"/>
+        <input type="hidden" name="label-dmform-4" value="Mensaje" id="1502607385" class=""/>
+       </div>
+       <span id="1289700169_clear" class="dmWidgetClear" dmle_clear="true">
+       </span>
+       <span id="1289700169_clear_clear" class="dmWidgetClear" dmle_clear="true">
+       </span>
+       <div class="dmformsubmit dmWidget R" preserve_css="true" id="1715460027">
+        <input class="" name="submit" type="submit" value="Enviar" id="1463853005" localization_key_value="googleTranslate.q47RdSQ.32"/>
+       </div>
+       <input name="dmformsendto" type="hidden" value="dges@cucea.udg.mx" preserve_css="true" id="1587937195" class=""/>
+       <input class="dmActionInput" type="hidden" name="action" value="/_dm/s/rt/widgets/dmform.submit.jsp" id="1175858118"/>
+       <input name="dmformsubject" type="hidden" value="FORMULARIO DE RESPUESTA" preserve_css="true" id="1153731861" localization_key_value="googleTranslate.2gaxoPe.33"/>
+      </form>
+     </div>
+     <div class="dmform-success" style="display:none" preserve_css="true" id="1099339579" localization_key="googleTranslate.yBtU4iW.34">
+      Gracias por contactarnos.
+      <br id="1591989592"/>
+      Le responderemos lo antes posible
+     </div>
+     <div class="dmform-error" style="display:none" preserve_css="true" id="1554035986" localization_key="googleTranslate.Y4lezJb.35">
+      Se ha producido un error al enviar su mensaje.
+      <br id="1360556738"/>
+      Int&eacute;ntelo m&aacute;s tarde
+     </div>
+    </div>
+   </div>
+   <div class="u_1264722330 dmRespCol small-12 large-4 medium-4" id="1264722330">
+    <!-- *** INSERT YOUR HTML BELOW *** -->
+    <div class="u_1218450558 dmNewParagraph" dmle_widget="paragraph" id="1218450558" no_space_e="true" data-element-type="paragraph" data-version="5">
+     <h2 style="" no_space_b="true" no_space_e="true" class="text-align-left" localization_key="googleTranslate.HqNVZZM.27">
+      <span style="display: initial;" no_space_b="true" no_space_e="true">
+       Cont&aacute;ctenos
+      </span>
+     </h2>
+    </div>
+    <div class="u_1450806179 dmNewParagraph" dmle_widget="paragraph" id="1450806179" no_space_e="true" data-uialign="right" data-element-type="paragraph" data-version="5">
+     <h4 localization_key="googleTranslate.KKg6nrJ.36">
+      <span style="display: initial;" no_space_b="true" no_space_e="true">
+       Tel&eacute;fono: +52 (33) 3770 3300. Ext. 25566, 25487 y 25602
+      </span>
+     </h4>
+    </div>
+    <div class="u_1748506604 dmNewParagraph" dmle_widget="paragraph" id="1748506604" data-uialign="right" style="transition: opacity 1s ease-in-out;" no_space_e="true" data-element-type="paragraph" data-version="5">
+     <h5 class="text-align-left" localization_key="googleTranslate.l8SLFSA.37">
+      <span style="display: initial; color: rgb(54, 73, 87); font-weight: 400;" no_space_b="true" no_space_e="true">
+       Guadalajara, Jalisco
+      </span>
+     </h5>
+     <h5 class="text-align-left" localization_key="googleTranslate.FbblQB2.38">
+      <a href="mailto:dges@cucea.udg.mx" target="_blank" style="display: initial;" no_space_b="true" no_space_e="true">
+       dges@cucea.udg.mx
+      </a>
+     </h5>
+    </div>
+    <!-- *** This is a dynamic element, it transforms into a Social Hub when the page renders *** -->
+    <span dmle_extension="social_hub" id="1136805946" wr="false" networks="" icon="false" surround="false" class="u_1136805946 default" dmle_clean="true" data-editor="eyJ0aXRsZSI6IiIsImRpc3BsYXlUaXRsZSI6dHJ1ZSwiZm9yY2VEaXNwbGF5IjpmYWxzZSwibGF5b3V0IjoidmVydGljYWwiLCJudW1iZXJPZkN1c3RvbUljb25zIjowLCJuZXR3b3JrcyI6W3sidXJsIjoiaHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL2RnZXNjdWNlYS8iLCJvcmRlciI6MCwiY3VzdG9tIjpmYWxzZSwiaWQiOiJmYWNlYm9vayIsImljb25fY2xhc3MiOiIiLCJpY29uX2N1c3RvbSI6IiIsImRhdGFWYWx1ZSI6e319LHsidXJsIjoiaHR0cHM6Ly90d2l0dGVyLmNvbS9EZ2VzQ3VjZWEvc3RhdHVzLzE0MzMxMzgwNjUzNDY4NjMxMTA/cmVmX3NyYz10d3NyYyU1RXRmdyU3Q3R3Y2FtcCU1RWVtYmVkZGVkdGltZWxpbmUlN0N0d3Rlcm0lNUVwcm9maWxlJTNBRGdlc0N1Y2VhJTdDdHdnciU1RWV5SjBabmRmWlhod1pYSnBiV1Z1ZEhOZlkyOXZhMmxsWDJWNGNHbHlZWFJwYjI0aU9uc2lZblZqYTJWMElqb3hNakE1TmpBd0xDSjJaWEp6YVc5dUlqcHVkV3hzZlN3aWRHWjNYMmh2Y21sNmIyNWZkSGRsWlhSZlpXMWlaV1JmT1RVMU5TSTZleUppZFdOclpYUWlPaUpvZEdVaUxDSjJaWEp6YVc5dUlqcHVkV3hzZlN3aWRHWjNYM053WVdObFgyTmhjbVFpT25zaVluVmphMlYwSWpvaWIyWm1JaXdpZG1WeWMybHZiaUk2Ym5Wc2JIMHNJblJtZDE5MlpHeGZZMmhwY25CZk1USTNPVFFpT25zaVluVmphMlYwSWpvaWRtUnNYMkZ1WkY5amFHbHljQ0lzSW5abGNuTnBiMjRpT2pOOWZRJTNEJTNEJTdDdHdjb24lNUV0aW1lbGluZWNocm9tZSZyZWZfdXJsPWh0dHAlM0ElMkYlMkZkZ2VzLmN1Y2VhLnVkZy5teCUyRmVzJTJGaW5pY2lvIiwib3JkZXIiOjEsImN1c3RvbSI6ZmFsc2UsImlkIjoidHdpdHRlciIsImljb25fY2xhc3MiOiIiLCJpY29uX2N1c3RvbSI6IiIsImRhdGFWYWx1ZSI6e319LHsidXJsIjoibWFpbHRvOmRnZXNAY3VjZWEudWRnLm14Iiwib3JkZXIiOjIsImN1c3RvbSI6ZmFsc2UsImlkIjoiZW1haWwiLCJpY29uX2NsYXNzIjoiIiwiaWNvbl9jdXN0b20iOiIiLCJkYXRhVmFsdWUiOnt9fSx7InVybCI6Imh0dHA6Ly9pbnN0YWdyYW0uY29tLyIsIm9yZGVyIjo0LCJjdXN0b20iOmZhbHNlLCJpZCI6Imluc3RhZ3JhbSIsImljb25fY2xhc3MiOiIiLCJpY29uX2N1c3RvbSI6IiIsImRhdGFWYWx1ZSI6e319LHsidXJsIjoiaHR0cDovL2xpbmtlZGluLmNvbS8iLCJvcmRlciI6MzAsImN1c3RvbSI6ZmFsc2UsImlkIjoibGlua2VkaW4iLCJpY29uX2NsYXNzIjoiIiwiaWNvbl9jdXN0b20iOiIiLCJkYXRhVmFsdWUiOnt9fV0sImljb25zX3N0eWxlIjoiNSIsImFsbF9wYWdlcyI6ZmFsc2V9">
+    </span>
+    <span id="1632979443" class="u_1632979443">
+    </span>
+   </div>
+  </div>
+ </div>
+ <div class="dmRespRow" id="1182385021">
+  <div class="dmRespColsWrapper" id="1554490647">
+   <div class="dmRespCol empty-column large-4 medium-4 small-12" id="1061200460">
+    <!-- *** INSERT YOUR HTML BELOW *** -->
+    <div class="u_1240234559 imageWidget align-center" editablewidget="true" data-element-type="image" dmle_widget="image" data-widget-type="image" id="1240234559">
+     <a href="http://siiauescolar.siiau.udg.mx/wus/gupprincipal.inicio" id="1620809439" class="" target="_blank" dm_dont_rewrite_url="false" file="false">
+      <img src="https://irp.cdn-website.com/7b113206/dms3rep/multi/unnamed.png" alt="" id="1478937279" class="" data-dm-image-path="https://irp.cdn-website.com/7b113206/dms3rep/multi/unnamed.png"/>
+     </a>
+    </div>
+    <div class="u_1700627377 imageWidget align-center" editablewidget="true" data-element-type="image" dmle_widget="image" data-widget-type="image" id="1700627377">
+     <a href="https://bpale.cucea.udg.mx/login/index.php" id="1794879365" class="" target="_blank" dm_dont_rewrite_url="false" file="false">
+      <img src="https://irp.cdn-website.com/7b113206/dms3rep/multi/unnamed+%281%29.png" alt="" id="1586942615" class="" data-dm-image-path="https://irp.cdn-website.com/7b113206/dms3rep/multi/unnamed+%281%29.png"/>
+     </a>
+    </div>
+   </div>
+   <div class="u_1258003443 dmRespCol empty-column small-12 large-3 medium-3" id="1258003443">
+    <!-- *** INSERT YOUR HTML BELOW *** -->
+    <div class="u_1281348238 imageWidget align-center" editablewidget="true" data-element-type="image" dmle_widget="image" data-widget-type="image" id="1281348238">
+     <a href="https://care.cucea.udg.mx/" id="1854938470" class="" target="_blank" dm_dont_rewrite_url="false" file="false">
+      <img src="https://irp.cdn-website.com/7b113206/dms3rep/multi/unnamed+%284%29.png" alt="" id="1115690350" class="" data-dm-image-path="https://irp.cdn-website.com/7b113206/dms3rep/multi/unnamed+%284%29.png"/>
+     </a>
+    </div>
+    <div class="u_1828630102 imageWidget align-center" editablewidget="true" data-element-type="image" dmle_widget="image" data-widget-type="image" id="1828630102">
+     <a href="https://cescolar.cucea.udg.mx/" id="1187484000" class="" target="_blank" dm_dont_rewrite_url="false" file="false">
+      <img src="https://irp.cdn-website.com/7b113206/dms3rep/multi/unnamed+%283%29.png" alt="" id="1616292354" class="" data-dm-image-path="https://irp.cdn-website.com/7b113206/dms3rep/multi/unnamed+%283%29.png"/>
+     </a>
+    </div>
+   </div>
+   <div class="u_1767749611 dmRespCol empty-column small-12 large-5 medium-5" id="1767749611">
+    <!-- *** INSERT YOUR HTML BELOW *** -->
+    <div class="imageWidget align-center u_1096153702" editablewidget="true" data-element-type="image" dmle_widget="image" data-widget-type="image" id="1096153702">
+     <a href="https://wdg.biblio.udg.mx/" id="1735967155" class="" target="_blank" dm_dont_rewrite_url="false" file="false">
+      <img src="https://irp.cdn-website.com/7b113206/dms3rep/multi/unnamed+%285%29.png" alt="" id="1424625171" class="" data-dm-image-path="https://irp.cdn-website.com/7b113206/dms3rep/multi/unnamed+%285%29.png"/>
+     </a>
+    </div>
+    <div class="u_1670836509 imageWidget align-center" editablewidget="true" data-element-type="image" dmle_widget="image" data-widget-type="image" id="1670836509">
+     <a href="https://ecursos.cucea.udg.mx/login/index.php" id="1331617823" class="" target="_blank" dm_dont_rewrite_url="false" file="false">
+      <img src="https://irp.cdn-website.com/7b113206/dms3rep/multi/unnamed+%282%29.png" alt="" id="1640429127" class="" data-dm-image-path="https://irp.cdn-website.com/7b113206/dms3rep/multi/unnamed+%282%29.png"/>
+     </a>
+    </div>
+   </div>
+  </div>
+ </div>
+</div>

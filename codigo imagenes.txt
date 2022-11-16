@@ -1,0 +1,38 @@
+<div dm:templateorder="85" class="dmHeaderResp dmHeaderStack noSwitch" id="1709005236">
+ <div class="dmRespRow defaultMultilingualExtensionRow fullBleedChanged fullBleedMode u_1121133060" id="1121133060">
+  <div class="dmRespColsWrapper" id="1755600994">
+   <div class="dmRespCol defaultMultilingualExtensionColumn small-12 large-123 medium-12" id="1004371509">
+    <!-- *** INSERT YOUR HTML BELOW *** -->
+    <!-- *** This is a dynamic element, it transforms into a widget when the page renders *** -->
+    <span dmle_extension="multilingual" data-display="dropdown" icon="false" surround="false" id="1223402576" class="">
+    </span>
+   </div>
+  </div>
+ </div>
+ <div class="u_1666243249 dmRespRow dmDefaultListContentRow fullBleedChanged fullBleedMode" style="text-align:center" id="1666243249">
+  <div class="dmRespColsWrapper" id="1454867633">
+   <div class="u_1549877991 small-12 dmRespCol large-2 medium-2" id="1549877991">
+    <!-- *** INSERT YOUR HTML BELOW *** -->
+    <div class="u_1634940138 imageWidget align-center" editablewidget="true" dmle_widget="image" data-widget-type="image" id="1634940138" data-element-type="image">
+     <a id="1566069007" class="" target="_blank" dm_dont_rewrite_url="false" file="false" href="/">
+      <img src="https://irp.cdn-website.com/7b113206/dms3rep/multi/LogoDGES-01.png" id="1524508819" class="" data-dm-image-path="https://irp.cdn-website.com/7b113206/dms3rep/multi/LogoDGES-01.png" data-hover-effect="zoomout" width="1920" height="640"/>
+     </a>
+    </div>
+   </div>
+   <div class="u_1175118756 dmRespCol small-12 large-8 medium-8" id="1175118756">
+    <!-- *** INSERT YOUR HTML BELOW *** -->
+    <!-- *** This is a dynamic element, it transforms into a widget when the page renders *** -->
+    <span dmle_extension="onelinksmenu" wr="true" layout-main="horizontal_nav_layout_3" icon="true" surround="true" class="u_1767169820 effect-top-bottom" data-from-nav="true" data-sub-nav="true" data-items="-1" navigation-id="unifiedNav" id="1767169820" data-build-your-own="W10=" data-show-vertical-sub-items="HOVER" data-nav-structure="HORIZONTAL" data-links-level="0" layout-sub="submenu_horizontal_2" adwords="" custom-li-class="" custom-ul-class="" custom-a-class="" custom-inner-ul-class="" custom-nested-inner-ul-class="" custom-span-class="" is-build-your-own="false">
+    </span>
+   </div>
+   <div class="u_1069346983 dmRespCol small-12 large-2 medium-2" id="1069346983">
+    <!-- *** INSERT YOUR HTML BELOW *** -->
+    <div class="u_1875761805 imageWidget align-center" editablewidget="true" data-element-type="image" dmle_widget="image" data-widget-type="image" id="1875761805">
+     <a id="1292895307" dm_dont_rewrite_url="false" href="https://www.udg.mx/" file="false" class="" target="_blank">
+      <img src="https://irp.cdn-website.com/7b113206/dms3rep/multi/Logo+u+de+G+benemerita_Mesa+de+trabajo+1.png" alt="" id="1103827926" class="" data-dm-image-path="https://irp.cdn-website.com/7b113206/dms3rep/multi/Logo+u+de+G+benemerita_Mesa+de+trabajo+1.png" width="1920" height="708"/>
+     </a>
+    </div>
+   </div>
+  </div>
+ </div>
+</div>
